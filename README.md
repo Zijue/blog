@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## 前端知识整理
 
-You can use the [editor on GitHub](https://github.com/Zijue/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 深入 JavaScript 系列
+- [函数](https://github.com/Zijue/blog/issues/6)
+- [作用域、执行上下文、作用域链](https://github.com/Zijue/blog/issues/7)
+- [原型和原型链](https://github.com/Zijue/blog/issues/3)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Nodejs 学习整理
+- [node 初识](https://github.com/Zijue/blog/issues/8)
+- [process 应用](https://github.com/Zijue/blog/issues/9)
+- [node 事件环](https://github.com/Zijue/blog/issues/10)
+- [node 模块化](https://github.com/Zijue/blog/issues/11)
+- [npm 的使用](https://github.com/Zijue/blog/issues/12)
 
-### Markdown
+### TypeScript 学习整理
+- [环境搭建与配置](https://github.com/Zijue/blog/issues/4)
+- [基础类型](https://github.com/Zijue/blog/issues/5)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 开发环境配置
 
-# Header 1
-## Header 2
-### Header 3
+### Mac 环境
+- [Mac开发环境nginx配置ssl支持https协议](https://github.com/Zijue/blog/issues/1)
 
-- Bulleted
-- List
+### Win10 环境
+- [win10 系统使用 WSL2 搭建开发环境踩坑记录](https://github.com/Zijue/blog/issues/13)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zijue/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 问题解决记录
+- [pip install 报 [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)](https://github.com/Zijue/blog/issues/14)
