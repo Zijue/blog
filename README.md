@@ -11,6 +11,7 @@
 - [node 事件环](https://github.com/Zijue/blog/issues/10)
 - [node 模块化](https://github.com/Zijue/blog/issues/11)
 - [npm 的使用](https://github.com/Zijue/blog/issues/12)
+- [events 模块核心原理](https://github.com/Zijue/blog/issues/15)
 
 ### TypeScript 学习整理
 - [环境搭建与配置](https://github.com/Zijue/blog/issues/4)
