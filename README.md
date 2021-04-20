@@ -13,6 +13,8 @@
 - [npm 的使用](https://github.com/Zijue/blog/issues/12)
 - [events 模块核心原理](https://github.com/Zijue/blog/issues/15)
 - [编码](https://github.com/Zijue/blog/issues/16)
+- [Buffer 的应用](https://github.com/Zijue/blog/issues/17)
+- [文件流](https://github.com/Zijue/blog/issues/18)
 
 ### TypeScript 学习整理
 - [环境搭建与配置](https://github.com/Zijue/blog/issues/4)
