@@ -15,6 +15,7 @@
 - [编码](https://github.com/Zijue/blog/issues/16)
 - [Buffer 的应用](https://github.com/Zijue/blog/issues/17)
 - [文件流](https://github.com/Zijue/blog/issues/18)
+- [文件夹删除的方式：异步串行与并发](https://github.com/Zijue/blog/issues/20)
 
 ### TypeScript 学习整理
 - [环境搭建与配置](https://github.com/Zijue/blog/issues/4)
