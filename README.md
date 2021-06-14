@@ -5,6 +5,9 @@
 - [作用域、执行上下文、作用域链](https://github.com/Zijue/blog/issues/7)
 - [原型和原型链](https://github.com/Zijue/blog/issues/3)
 
+### 手写Promise核心原理
+- [高级函数与函数柯里化](https://github.com/Zijue/blog/issues/22)
+
 ### Nodejs 学习整理
 - [node 初识](https://github.com/Zijue/blog/issues/8)
 - [process 应用](https://github.com/Zijue/blog/issues/9)
