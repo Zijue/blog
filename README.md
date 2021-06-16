@@ -7,6 +7,7 @@
 
 ### 手写Promise核心原理
 - [高级函数与函数柯里化](https://github.com/Zijue/blog/issues/22)
+- [promise介绍及初步功能的实现](https://github.com/Zijue/blog/issues/23)
 
 ### Nodejs 学习整理
 - [node 初识](https://github.com/Zijue/blog/issues/8)
