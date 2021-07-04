@@ -11,6 +11,11 @@
 - [promise链式调用](https://github.com/Zijue/blog/issues/24)
 - [promise中的其它方法](https://github.com/Zijue/blog/issues/25)
 
+### async + await
+- [generator的概念及实现原理](https://github.com/Zijue/blog/issues/26)
+- [如何用同步风格写异步逻辑及co库实现原理](https://github.com/Zijue/blog/issues/27)
+- [async+await处理异步任务](https://github.com/Zijue/blog/issues/28)
+
 ### Nodejs 学习整理
 - [node 初识](https://github.com/Zijue/blog/issues/8)
 - [process 应用](https://github.com/Zijue/blog/issues/9)
