@@ -30,6 +30,7 @@
 - [http概念](https://github.com/Zijue/blog/issues/19)
 - [http应用](https://github.com/Zijue/blog/issues/21)
 - [手写koa核心原理](https://github.com/Zijue/blog/issues/29)
+- [koa中间件功能扩展](https://github.com/Zijue/blog/issues/30)
 
 ### TypeScript 学习整理
 - [环境搭建与配置](https://github.com/Zijue/blog/issues/4)
